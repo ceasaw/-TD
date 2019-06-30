@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\APPDelegate">
+      <UniqueIdentifier>{0ff13068-0598-4c30-bcdd-879ba7151d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys">
+      <UniqueIdentifier>{d8cbc0d0-6d72-42c3-adad-99e2c5254069}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\Thief">
+      <UniqueIdentifier>{67f1baca-d73f-44d7-aa4d-70880c4aab63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\Pirate">
+      <UniqueIdentifier>{15a70d10-0039-43e1-a403-0c12bf666e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\EnemyBase">
+      <UniqueIdentifier>{1ace46d7-b2a2-4fa5-ad2b-3b8ff002fd26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\Bandit">
+      <UniqueIdentifier>{28a368b0-5821-4bb1-aada-ddb749882aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layers">
+      <UniqueIdentifier>{f8776c93-c64e-4ab9-8ec4-28c3ef3bc58f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layers\PlayLayer">
+      <UniqueIdentifier>{6c25b4d0-d192-41eb-acfd-0510db6e4389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layers\TowerPanleLayer">
+      <UniqueIdentifier>{8c56da8e-c904-406b-a1d7-0d1b2d346ad3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Towers">
+      <UniqueIdentifier>{9ea626c7-e687-494a-815a-402b82e059f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Towers\TowerBase">
+      <UniqueIdentifier>{f13eb051-d47f-4fe4-be63-700d29264d00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Towers\ArrowTower">
+      <UniqueIdentifier>{074344a0-81fe-4071-bcd1-4249faeae4a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Towers\AttackTower">
+      <UniqueIdentifier>{6d6306ab-2cfd-4a0e-b3d5-5fb1b17b8dcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Towers\MultiDirTower">
+      <UniqueIdentifier>{f5f96fb0-0b53-4598-90ac-eb889f29a425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameManager">
+      <UniqueIdentifier>{5c8cd2fd-4208-4b32-a667-e3626522fd83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\HelloWorld">
+      <UniqueIdentifier>{0f282368-66db-4f97-a9b7-a55dcd965d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GroupEnemy">
+      <UniqueIdentifier>{f443c7f7-fd6d-49db-9bc6-d7c71a6ededf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LoadLevelInfo">
+      <UniqueIdentifier>{c5fc8db6-2119-43fe-b8ad-686f4ab6c12d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\Bosses">
+      <UniqueIdentifier>{50b0f48b-ae13-40c0-8f3c-4d3644009bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Enemys\Bosses\Level1:CrazyDragon">
+      <UniqueIdentifier>{83b2f9f6-6bf6-48f8-bdfe-7f15a29fb2f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layers\TheStartScene">
+      <UniqueIdentifier>{58dfbdd7-82f5-4045-ab81-daa0070686d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src\APPDelegate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Bandit.cpp">
+      <Filter>src\Enemys\Bandit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Priate.cpp">
+      <Filter>src\Enemys\Pirate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Thief.cpp">
+      <Filter>src\Enemys\Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Enemy.cpp">
+      <Filter>src\Enemys\EnemyBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlayLayer.cpp">
+      <Filter>src\Layers\PlayLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowTower.cpp">
+      <Filter>src\Towers\ArrowTower</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TowerBase.cpp">
+      <Filter>src\Towers\TowerBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AttackTower.cpp">
+      <Filter>src\Towers\AttackTower</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MultiDirTower.cpp">
+      <Filter>src\Towers\MultiDirTower</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameManager.cpp">
+      <Filter>src\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GroupEnemy.cpp">
+      <Filter>src\GroupEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadLevelInfo.cpp">
+      <Filter>src\LoadLevelInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CrazyDragon.cpp">
+      <Filter>src\Enemys\Bosses\Level1:CrazyDragon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TheStartScene.cpp">
+      <Filter>src\Layers\TheStartScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TowerPanelLayer.cpp">
+      <Filter>src\Layers\TowerPanleLayer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src\APPDelegate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Bandit.h">
+      <Filter>src\Enemys\Bandit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Priate.h">
+      <Filter>src\Enemys\Pirate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Thief.h">
+      <Filter>src\Enemys\Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlayLayer.h">
+      <Filter>src\Layers\PlayLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowTower.h">
+      <Filter>src\Towers\ArrowTower</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TowerBase.h">
+      <Filter>src\Towers\TowerBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AttackTower.h">
+      <Filter>src\Towers\AttackTower</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MultiDirTower.h">
+      <Filter>src\Towers\MultiDirTower</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameManager.h">
+      <Filter>src\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src\HelloWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GroupEnemy.h">
+      <Filter>src\GroupEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadLevelInfo.h">
+      <Filter>src\LoadLevelInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Enemy.h">
+      <Filter>src\Enemys\EnemyBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CrazyDragon.h">
+      <Filter>src\Enemys\Bosses\Level1:CrazyDragon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TheStartScene.h">
+      <Filter>src\Layers\TheStartScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TowerPanelLayer.h">
+      <Filter>src\Layers\TowerPanleLayer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>src\resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

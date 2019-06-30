@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CrazyDragonLeft_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,342},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,0},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,114},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,228},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,342},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,0},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonLeft_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,114},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,114},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,228},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,342},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,0},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,114},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,228},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+			<key>CrazyDragonRight_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,342},{110,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,114}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>
